@@ -1,3 +1,0 @@
-ls
-README.md
-up.txt
